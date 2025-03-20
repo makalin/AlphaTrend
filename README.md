@@ -1,5 +1,7 @@
 # AlphaTrend
 
+![AlphaTrend Logo](public/logo.png)
+
 AlphaTrend is an open-source web app that allows users to search for fintech and finance terms, view current prices, and draw live graphs. It features a dark theme and integrates AI APIs for insights.
 
 ## Features
